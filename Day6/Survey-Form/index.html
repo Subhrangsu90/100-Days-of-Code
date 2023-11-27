@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <h1 class="title">Web Development Survey Form</h1>
+    <p class="description">
+      Thank you for participating in our web development survey. Your feedback
+      is valuable to us.
+    </p>
+    <div class="container">
+      <form method="post" action="#" id="survey-form">
+        <!-- Personal Information -->
+        <fieldset>
+          <label for="name" id="name-label"
+            >Enter Your Name:
+            <input
+              type="text"
+              name="name"
+              id="name"
+              placeholder="Enter your name"
+              required
+            />
+          </label>
+
+          <label for="email" id="email-label"
+            >Enter Your Email:
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="Enter your email"
+              required
+            />
+          </label>
+
+          <label for="phone" id="phone-label"
+            >Enter Your Phone Number:
+            <input
+              type="tel"
+              id="phone"
+              name="phone"
+              placeholder="Enter your phone number"
+              pattern="(\+\d{1,4})?\d{10}"
+            />
+          </label>
+
+          <label for="number" id="number-label"
+            >Age (optional):
+            <input type="number" id="number" name="age" min="18" max="100" />
+          </label>
+        </fieldset>
+
+        <!-- Experience and Preferences -->
+        <fieldset>
+          <label for="role"
+            >Current Role:
+            <select id="role" name="role" required>
+              <option value="" disabled selected>Select your role</option>
+              <option value="student">Student</option>
+              <option value="professional">Professional Developer</option>
+              <option value="freelancer">Freelancer</option>
+              <option value="other">Other</option>
+            </select>
+          </label>
+
+          <label>Years of Experience:</label>
+          <label>
+            <input type="radio" name="experience" value="0-2 years" required />
+            0-2 years
+          </label>
+          <label>
+            <input type="radio" name="experience" value="3-5 years" required />
+            3-5 years
+          </label>
+          <label>
+            <input type="radio" name="experience" value="6-10 years" required />
+            6-10 years
+          </label>
+          <label>
+            <input type="radio" name="experience" value="10+ years" required />
+            10+ years
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <legend>
+            What would you like to see improved? (Check all that apply)
+          </legend>
+
+          <label>
+            <input type="checkbox" name="improvements" value="front-end" />
+            Front-end Projects
+          </label>
+
+          <label>
+            <input type="checkbox" name="improvements" value="back-end" />
+            Back-end Projects
+          </label>
+
+          <label>
+            <input
+              type="checkbox"
+              name="improvements"
+              value="data-visualization"
+            />
+            Data Visualization
+          </label>
+        </fieldset>
+
+        <fieldset>
+          <label for="comments">
+            Any comments or suggestions?
+            <textarea
+              id="comments"
+              name="comments"
+              rows="3"
+              cols="30"
+              placeholder="Enter your comments..."
+              required
+            ></textarea>
+          </label>
+        </fieldset>
+
+        <!-- Contact Preferences -->
+        <fieldset>
+          <legend>Contact Preferences</legend>
+
+          <label>
+            <input
+              type="checkbox"
+              name="contact"
+              value="email"
+              id="contact-email"
+            />
+            Email
+          </label>
+
+          <label>
+            <input
+              type="checkbox"
+              name="contact"
+              value="phone"
+              id="contact-phone"
+            />
+            Phone
+          </label>
+
+          <label>
+            <input
+              type="checkbox"
+              name="contact"
+              value="other"
+              id="contact-other"
+            />
+            Other
+          </label>
+        </fieldset>
+
+        <label for="terms-and-conditions">
+          <input
+            class="inline"
+            id="terms-and-conditions"
+            type="checkbox"
+            required
+            name="terms-and-conditions"
+          />
+          I accept the
+          <a href="#">terms and conditions</a>
+        </label>
+
+        <!-- Submit Button -->
+        <input type="submit" id="submit" value="Submit" />
+      </form>
+    </div>
+  </body>
+</html>

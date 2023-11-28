@@ -8,7 +8,7 @@ Body {
 }
 
 h1 {
-  color: rgb(142, 102, 207);
+  color: rgb(102, 20, 235);
 }
 
 ol {
@@ -22,7 +22,7 @@ ol li {
 }
 ol li::before {
   content: counter(my-awesome-counter) ". ";
-  color: rgb(243, 101, 101);
+  color: rgb(240, 63, 63);
   font-weight: bold;
 }
 
@@ -36,9 +36,9 @@ a:visited {
 }
 
 a:hover {
-  color: brown;
+  color: rgb(182, 30, 30);
 }
 
 a:active {
-  color: brown;
+  color: rgb(165, 75, 42);
 }

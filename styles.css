@@ -25,7 +25,9 @@ ol li::before {
   color: rgb(240, 63, 63);
   font-weight: bold;
 }
-
+strong {
+  padding-left: 10px;
+}
 a {
   color: black;
   text-decoration: inherit;

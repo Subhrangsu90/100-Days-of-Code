@@ -1,0 +1,50 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#title {
+  text-align: center;
+}
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  max-width: 25%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 3px;
+}
+
+#img-caption {
+  margin-top: 10px;
+}
+
+#tribute-info {
+  margin-top: 20px;
+}
+h3 {
+  font-size: 1em;
+  color: #4e4e4f;
+}
+#tribute-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #007bff;
+}

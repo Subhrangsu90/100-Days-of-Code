@@ -173,6 +173,20 @@ Explored the power of CSS pseudo-selectors by building a balance sheet. Used pse
 
 [View Balance Sheet Project](https://subhrangsu90.github.io/100-Days-of-Code/Day13/Balance_Sheet/index.html)
 
+## Day 14: Intermediate CSS - Cat Painting
+
+### Project Overview
+
+Explored intermediate CSS with a cat painting project. Learned absolute positioning, z-index, and transform properties for enhanced web layouts and visual appeal.
+
+### What I Explored
+
+- Applied absolute positioning to precisely place elements on the page.
+- Worked with the z-index property for layering and stacking elements.
+- Utilized the transform property to bring dynamic transformations to the cat painting.
+
+[View Cat Painting Project](https://subhrangsu90.github.io/100-Days-of-Code/Day14/Cat_Painting.cpp/index.html)
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

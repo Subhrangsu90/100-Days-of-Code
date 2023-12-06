@@ -187,6 +187,20 @@ Explored intermediate CSS with a cat painting project. Learned absolute position
 
 [View Cat Painting Project](https://subhrangsu90.github.io/100-Days-of-Code/Day14/Cat_Painting.cpp/index.html)
 
+## Day 15: Responsive Web Design - Piano Project
+
+### Project Overview
+
+Completed 'Learn Responsive Web Design by Building a Piano' on freeCodeCamp. Mastered Responsive Design principles, using CSS to code a piano. Explored media queries and pseudo selectors for optimal viewing on different-sized screens. 🎹🌐
+
+### What I Accomplished
+
+- Mastered CSS for responsive web design.
+- Implemented media queries and pseudo selectors.
+- Completed the piano project on freeCodeCamp.
+
+[View Piano Project](https://subhrangsu90.github.io/100-Days-of-Code/Day15/Piano/index.html)
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

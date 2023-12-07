@@ -185,7 +185,7 @@ Explored intermediate CSS with a cat painting project. Learned absolute position
 - Worked with the z-index property for layering and stacking elements.
 - Utilized the transform property to bring dynamic transformations to the cat painting.
 
-[View Cat Painting Project](https://subhrangsu90.github.io/100-Days-of-Code/Day14/Cat_Painting.cpp/index.html)
+[View Cat Painting Project](https://subhrangsu90.github.io/100-Days-of-Code/Day14/Cat_Painting/index.html)
 
 ## Day 15: Responsive Web Design - Piano Project
 
@@ -200,6 +200,20 @@ Completed 'Learn Responsive Web Design by Building a Piano' on freeCodeCamp. Mas
 - Completed the piano project on freeCodeCamp.
 
 [View Piano Project](https://subhrangsu90.github.io/100-Days-of-Code/Day15/Piano/index.html)
+
+## Day 16: CSS Animation - Ferris Wheel Project
+
+### Project Overview
+
+Completed 'Learn CSS Animation by Building a Ferris Wheel' on freeCodeCamp. Mastered the art of using CSS animation to draw attention and enhance engagement. Built a Ferris wheel by animating elements, transforming them, and adjusting their speed. 🎡🌟
+
+### What I Accomplished
+
+- Explored CSS animation techniques for webpage engagement.
+- Learned to animate elements, transform them, and control animation speed.
+- Successfully completed the Ferris Wheel project on freeCodeCamp.
+
+[View Ferris Wheel Project](https://subhrangsu90.github.io/100-Days-of-Code/Day16/Ferris_Wheel/index.html)
 
 ## Connect with Me
 

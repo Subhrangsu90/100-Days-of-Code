@@ -227,7 +227,7 @@ Created the TinDog web application using Bootstrap. Explored the power of Bootst
 - Explored Bootstrap components for efficient web development.
 - Completed the TinDog project, combining design aesthetics with functionality.
 
-[View TinDog Project](link-to-day17-project)
+[View TinDog Project](https://subhrangsu90.github.io/100-Days-of-Code/Day17/TinDog_Project/index.html)
 
 ## Connect with Me
 

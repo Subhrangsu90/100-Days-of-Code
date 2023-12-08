@@ -215,6 +215,20 @@ Completed 'Learn CSS Animation by Building a Ferris Wheel' on freeCodeCamp. Mast
 
 [View Ferris Wheel Project](https://subhrangsu90.github.io/100-Days-of-Code/Day16/Ferris_Wheel/index.html)
 
+## Day 17: TinDog Web Application - Bootstrap Project
+
+### Project Overview
+
+Created the TinDog web application using Bootstrap. Explored the power of Bootstrap to streamline the development of a responsive and visually appealing website for showcasing a dog adoption service. 🐾🌟
+
+### What I Accomplished
+
+- Implemented a modern and responsive design using Bootstrap.
+- Explored Bootstrap components for efficient web development.
+- Completed the TinDog project, combining design aesthetics with functionality.
+
+[View TinDog Project](link-to-day17-project)
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

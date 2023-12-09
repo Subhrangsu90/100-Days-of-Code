@@ -229,6 +229,20 @@ Created the TinDog web application using Bootstrap. Explored the power of Bootst
 
 [View TinDog Project](https://subhrangsu90.github.io/100-Days-of-Code/Day17/TinDog_Project/index.html)
 
+## Day 18: JavaScript Fundamentals - Variable Declarations
+
+### What I Learned
+- Commenting JavaScript code for clarity.
+- Declaring variables using `var`, `let`, and `const`.
+- Storing values and initializing variables.
+- Understanding case sensitivity in variables.
+
+### Key Concepts Explored
+- Differences between `var` and `let` keywords.
+- Declaring read-only variables using the `const` keyword.
+
+Exciting journey into JavaScript fundamentals! 💻🌐 #100DaysOfCode #JavaScript
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

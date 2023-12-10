@@ -243,6 +243,21 @@ Created the TinDog web application using Bootstrap. Explored the power of Bootst
 
 Exciting journey into JavaScript fundamentals! 💻🌐 #100DaysOfCode #JavaScript
 
+## Day 19: JavaScript Arithmetic & Assignment
+
+### What I Learned
+- Adding, subtracting, multiplying, and dividing numbers in JavaScript.
+- Incrementing and decrementing numeric values.
+- Working with decimal numbers and performing arithmetic operations.
+- Using compound assignments for augmented addition, subtraction, multiplication, and division.
+
+### Key Concepts Explored
+- Arithmetic operations for basic calculations.
+- Incrementing and decrementing for value manipulation.
+- Compound assignments for concise code.
+
+Another step forward in mastering JavaScript essentials! 💻🚀 #100DaysOfCode #JavaScript
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

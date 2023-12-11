@@ -258,6 +258,22 @@ Exciting journey into JavaScript fundamentals! 💻🌐 #100DaysOfCode #JavaScri
 
 Another step forward in mastering JavaScript essentials! 💻🚀 #100DaysOfCode #JavaScript
 
+## Day 20: JavaScript String Manipulation
+
+### What I Learned
+- Utilized escape sequences in strings.
+- Concatenated strings with different operators.
+- Constructed strings with variables and appended variables.
+- Explored string length and character retrieval methods.
+- Worked with word blanks for dynamic string creation.
+
+### Key Concepts Explored
+- String concatenation for building complex strings.
+- String immutability and its implications.
+- Using bracket notation to access characters in a string.
+
+Enhancing my JavaScript skills through string manipulations! 💻🔗 #100DaysOfCode #JavaScript
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

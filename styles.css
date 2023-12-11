@@ -11,16 +11,16 @@ h1 {
   color: rgb(102, 20, 235);
 }
 
-ol {
+ul {
   list-style: none;
   counter-reset: my-awesome-counter;
 }
-ol li {
+ul li {
   counter-increment: my-awesome-counter;
   font-weight: 600;
   padding: 5px;
 }
-ol li::before {
+ul li::before {
   content: counter(my-awesome-counter) ". ";
   color: rgb(240, 63, 63);
   font-weight: bold;

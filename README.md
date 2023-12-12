@@ -232,12 +232,14 @@ Created the TinDog web application using Bootstrap. Explored the power of Bootst
 ## Day 18: JavaScript Fundamentals - Variable Declarations
 
 ### What I Learned
+
 - Commenting JavaScript code for clarity.
 - Declaring variables using `var`, `let`, and `const`.
 - Storing values and initializing variables.
 - Understanding case sensitivity in variables.
 
 ### Key Concepts Explored
+
 - Differences between `var` and `let` keywords.
 - Declaring read-only variables using the `const` keyword.
 
@@ -246,12 +248,14 @@ Exciting journey into JavaScript fundamentals! 💻🌐 #100DaysOfCode #JavaScri
 ## Day 19: JavaScript Arithmetic & Assignment
 
 ### What I Learned
+
 - Adding, subtracting, multiplying, and dividing numbers in JavaScript.
 - Incrementing and decrementing numeric values.
 - Working with decimal numbers and performing arithmetic operations.
 - Using compound assignments for augmented addition, subtraction, multiplication, and division.
 
 ### Key Concepts Explored
+
 - Arithmetic operations for basic calculations.
 - Incrementing and decrementing for value manipulation.
 - Compound assignments for concise code.
@@ -261,6 +265,7 @@ Another step forward in mastering JavaScript essentials! 💻🚀 #100DaysOfCode
 ## Day 20: JavaScript String Manipulation
 
 ### What I Learned
+
 - Utilized escape sequences in strings.
 - Concatenated strings with different operators.
 - Constructed strings with variables and appended variables.
@@ -268,11 +273,31 @@ Another step forward in mastering JavaScript essentials! 💻🚀 #100DaysOfCode
 - Worked with word blanks for dynamic string creation.
 
 ### Key Concepts Explored
+
 - String concatenation for building complex strings.
 - String immutability and its implications.
 - Using bracket notation to access characters in a string.
 
 Enhancing my JavaScript skills through string manipulations! 💻🔗 #100DaysOfCode #JavaScript
+
+## Day 21: JavaScript Arrays & Functions Mastery
+
+### What I Learned
+
+- Stored multiple values in variables using arrays.
+- Nested arrays for multi-dimensional data structures.
+- Accessed and modified array data with indexes.
+- Manipulated arrays using push, pop, shift, and unshift methods.
+- Created a shopping list using arrays.
+
+### Key Concepts Explored
+
+- Writing reusable code with functions.
+- Passing values to functions with arguments.
+- Returning values from functions.
+- Understanding global and local scope in functions.
+
+Building strong foundations with arrays and functions in JavaScript! 💪💻 #100DaysOfCode #JavaScript
 
 ## Connect with Me
 

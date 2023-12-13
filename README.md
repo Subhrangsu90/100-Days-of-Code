@@ -299,6 +299,24 @@ Enhancing my JavaScript skills through string manipulations! 💻🔗 #100DaysOf
 
 Building strong foundations with arrays and functions in JavaScript! 💪💻 #100DaysOfCode #JavaScript
 
+## Day 22: JavaScript Functions & Conditional Logic
+
+### What I Learned
+
+- Understood undefined value returned from a function.
+- Utilized assignment with a returned value.
+- Implemented conditional logic with if statements.
+- Explored boolean values and practiced comparisons.
+
+### Key Concepts Explored
+
+- Equality and strict equality operators for comparisons.
+- Inequality and strict inequality operators.
+- Greater than, greater than or equal to, less than, and less than or equal to operators.
+- Logical AND and OR operators for complex conditions.
+
+Diving deeper into JavaScript functions and conditional statements! 💡💻 #100DaysOfCode #JavaScript
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

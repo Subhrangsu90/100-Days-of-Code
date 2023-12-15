@@ -334,6 +334,18 @@ Diving deeper into JavaScript functions and conditional statements! 💡💻 #10
 
 Advancing my skills in JavaScript conditional logic! 💡💻 #100DaysOfCode #JavaScript
 
+## Day 24: JavaScript Functions & Objects Mastery
+
+### What I Learned
+
+- Returned boolean values from functions.
+- Implemented the return early pattern for functions.
+- Explored creating and accessing properties in JavaScript objects.
+- Updated, added, and deleted properties in objects.
+- Used objects for lookups and tested properties.
+
+Advancing my skills with functions and mastering object manipulation in JavaScript! 💻🛠️ #100DaysOfCode #JavaScript
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

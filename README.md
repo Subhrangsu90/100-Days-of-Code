@@ -346,6 +346,17 @@ Advancing my skills in JavaScript conditional logic! 💡💻 #100DaysOfCode #Ja
 
 Advancing my skills with functions and mastering object manipulation in JavaScript! 💻🛠️ #100DaysOfCode #JavaScript
 
+## Day 25: JavaScript Loops & Nested Structures
+
+### What I Learned
+- Accessed nested objects and arrays in JavaScript.
+- Implemented for, while, and do...while loops for iteration.
+- Explored iterating through arrays and nesting loops.
+- Used recursion to replace loops.
+
+Enhancing my JavaScript skills with loops and nested structures! 💻🔄 #100DaysOfCode #JavaScript
+
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

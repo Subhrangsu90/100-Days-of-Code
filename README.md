@@ -349,6 +349,7 @@ Advancing my skills with functions and mastering object manipulation in JavaScri
 ## Day 25: JavaScript Loops & Nested Structures
 
 ### What I Learned
+
 - Accessed nested objects and arrays in JavaScript.
 - Implemented for, while, and do...while loops for iteration.
 - Explored iterating through arrays and nesting loops.
@@ -356,6 +357,17 @@ Advancing my skills with functions and mastering object manipulation in JavaScri
 
 Enhancing my JavaScript skills with loops and nested structures! 💻🔄 #100DaysOfCode #JavaScript
 
+## Day 26: JavaScript Functions & Operations
+
+### What I Learned
+
+- Implemented profile lookup functionality.
+- Generated random fractions and whole numbers.
+- Used the `parseInt` function with and without a radix.
+- Explored the conditional (ternary) operator.
+- Leveraged recursion for countdowns and creating ranges of numbers.
+
+Continuing to deepen my JavaScript expertise with diverse operations! 💻🔀 #100DaysOfCode #JavaScript
 
 ## Connect with Me
 

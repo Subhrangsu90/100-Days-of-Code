@@ -369,6 +369,18 @@ Enhancing my JavaScript skills with loops and nested structures! 💻🔄 #100Da
 
 Continuing to deepen my JavaScript expertise with diverse operations! 💻🔀 #100DaysOfCode #JavaScript
 
+## Day 27: Advanced JavaScript Features
+
+### What I Learned
+- Compared scopes of the var and let keywords.
+- Explored array and object mutations using const.
+- Prevented object mutation and used arrow functions for concise coding.
+- Set default parameters, used the rest parameter, and leveraged the spread operator.
+- Mastered destructuring assignment for arrays and objects.
+
+Advancing my JavaScript skills with advanced features! 💡💻 #100DaysOfCode #JavaScript
+
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

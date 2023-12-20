@@ -372,6 +372,7 @@ Continuing to deepen my JavaScript expertise with diverse operations! 💻🔀 #
 ## Day 27: Advanced JavaScript Features
 
 ### What I Learned
+
 - Compared scopes of the var and let keywords.
 - Explored array and object mutations using const.
 - Prevented object mutation and used arrow functions for concise coding.
@@ -380,6 +381,19 @@ Continuing to deepen my JavaScript expertise with diverse operations! 💻🔀 #
 
 Advancing my JavaScript skills with advanced features! 💡💻 #100DaysOfCode #JavaScript
 
+## Day 28: Mastering Advanced JavaScript Techniques
+
+### What I Learned
+
+- Assigned variables from arrays using destructuring.
+- Explored rest elements in destructuring.
+- Passed objects as function parameters with destructuring.
+- Created strings using template literals.
+- Used object property shorthand and declarative functions.
+- Defined constructor functions with class syntax.
+- Utilized getters and setters for object access control.
+
+Advancing my JavaScript proficiency with advanced techniques! 💡💻 #100DaysOfCode #JavaScript
 
 ## Connect with Me
 

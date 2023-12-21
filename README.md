@@ -395,6 +395,19 @@ Advancing my JavaScript skills with advanced features! 💡💻 #100DaysOfCode #
 
 Advancing my JavaScript proficiency with advanced techniques! 💡💻 #100DaysOfCode #JavaScript
 
+## Day 29: Exploring JavaScript Modules & Promises
+
+### What I Learned
+
+- Created module scripts using export/import.
+- Reused JavaScript code with export/import statements.
+- Utilized \* to import everything from a file.
+- Implemented export fallback with export default.
+- Created and completed JavaScript promises with resolve and reject.
+- Handled fulfilled and rejected promises using then and catch.
+
+Advancing my JavaScript skills with modules and promises! 💡💻 #100DaysOfCode #JavaScript
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:

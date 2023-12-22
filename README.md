@@ -408,6 +408,19 @@ Advancing my JavaScript proficiency with advanced techniques! 💡💻 #100DaysO
 
 Advancing my JavaScript skills with modules and promises! 💡💻 #100DaysOfCode #JavaScript
 
+## Day 30: Mastering Regular Expressions in JavaScript
+
+### What I Learned
+- Utilized the test method to check patterns.
+- Matched literal strings and handled different possibilities.
+- Applied case-insensitive matching.
+- Extracted matches and found more than the first match.
+- Used wildcard periods and matched single characters with multiple possibilities.
+- Matched letters, numbers, and single characters not specified.
+
+Delving into the power of Regular Expressions for text matching in JavaScript! 💡💻 #100DaysOfCode #JavaScript
+
+
 ## Connect with Me
 
 📫 Feel free to connect with me and share your coding journey! Let's inspire and support each other:
